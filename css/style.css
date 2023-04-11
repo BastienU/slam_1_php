@@ -69,6 +69,7 @@ section > p {
 }
 section address{
     padding: 0 1.0rem;
+    color: red;
 }
 footer p{
     border: 0;
